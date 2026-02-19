@@ -1,0 +1,74 @@
+
+Clone
+
+Remote URL selector navigation
+HTTPS
+SSH
+GitHub CLI
+Clone with HTTPS url
+https://github.com/ndganesh6973/new-learrning.git
+Clone using the web URL.
+
+Skip to content
+ndganesh6973
+new-learrning
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Owner avatar
+new-learrning
+Public
+ndganesh6973/new-learrning
+Go to file
+t
+Name		
+ndganesh6973
+ndganesh6973
+Add greeting message to text1.txt
+973498b
+ · 
+3 minutes ago
+text1.txt
+Add greeting message to text1.txt
+3 minutes ago
+Repository files navigation
+README
+Add a README
+Help people interested in this repository understand your project.
+
+About
+No description, website, or topics provided.
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+Copied!
+hello
